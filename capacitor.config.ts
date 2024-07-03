@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'myapp',
+  appId: 'com.aiconnect.app',
+  appName: 'aiconnect',
   webDir: 'www'
 };
 
